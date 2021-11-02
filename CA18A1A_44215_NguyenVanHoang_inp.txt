@@ -1,0 +1,5 @@
+MH01|Cảm Biến Âm Thanh  |1|10000
+MH02|Cảm Biến Điện Dung |2|20000
+MH03|Cảm Biến Quang     |3|30000
+MH04|Cảm Biến Nhiệt     |4|40000
+MH05|Cảm Biến Từ        |5|50000
